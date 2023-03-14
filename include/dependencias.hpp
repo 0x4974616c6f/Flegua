@@ -1,0 +1,40 @@
+#ifndef DEPENDENCIAS_HPP
+#define DEPENDENCIAS_HPP
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <stdexcept>
+#include <algorithm>
+#include <iterator>
+#include <sstream>
+#include <fstream>
+#include <map>
+#include <set>
+#include <memory>
+#include <functional>
+#include <utility>
+#include <type_traits>
+#include <cassert>
+#include <cctype>
+#include <cmath>
+#include <cstdlib>
+#include <cstring>
+#include <ctime>
+#include <cstdarg>
+#include <cstddef>
+#include <cstdint>
+#include <cstdio>
+#include <cinttypes>
+#include <climits>
+#include <cfloat>
+#include <ciso646>
+#include <cstdalign>
+#include <cstdbool>
+#include <cstddef>
+#include <cuchar>
+#include <cwchar>
+#include <cwctype>
+#include <unordered_map>
+
+#endif /* DEPENDENCIAS_HPP */
